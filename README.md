@@ -4,7 +4,10 @@
 
 I am a Denzel from Houston, and I am a System Administrator who's passionate about streamlining processes and delivering top-notch technical solutions.  
 
-Skills: System Administrator, Network Administration, PowerShell
+## Skills and Experience
+* 🖥️ System Administration
+* 🗾 Network Administration
+* 🐚 Powershell
 
 - 🔭 I’m currently working on getting my Microsoft Azure Administrator AZ-104 Certification 
 
