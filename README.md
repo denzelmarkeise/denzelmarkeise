@@ -6,6 +6,7 @@ I am a Denzel from Houston, and I am a System Administrator who's passionate abo
 * 🖥️ System Administration
 * 🗾 Network Administration
 * 🐚 Powershell
+* 🐍 Python
 
 - 🔭 I’m currently working on getting my Microsoft Azure Administrator AZ-104 Certification 
 
