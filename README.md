@@ -2,6 +2,7 @@
 
 <h1>I am a Denzel</h1> 
 
+![System Administrator](https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/86737636-4c4e-452d-a9e5-6c950edca2e3)
 
 
 ## Skills and Experience
