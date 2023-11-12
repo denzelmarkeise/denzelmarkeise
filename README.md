@@ -2,7 +2,8 @@
 
 <h1>Hi, I'm Denzel 👋🏾💻</h1> 
 
-![System Administrator](https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/86737636-4c4e-452d-a9e5-6c950edca2e3)
+![Untitled design](https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/3939ff4f-f097-4df1-a3aa-a842251eeb49)
+
 
 
 ## Skills and Experience
