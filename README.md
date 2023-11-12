@@ -2,6 +2,7 @@
 
 <h1>Hi, I'm Denzel 👋🏾💻</h1> 
 
+<img width="791" alt="df" src="https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/65512144-9b1a-47f6-99d6-e40a24684719">
 
 
 
