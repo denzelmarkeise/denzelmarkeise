@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Denzel 👋🏾💻</h1> 
 
-![Denzel Markeise](https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/061fadc1-0125-49e4-816b-895ff25679f5)
+
 
 
 
