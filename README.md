@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Denzel 👋🏾💻
+# Hi, I'm Denzel 👋🏾 💻
 
 <img width="791" alt="df5" src="https://github.com/denzelmarkeise/denzelmarkeise/assets/137828085/32501ab0-a537-4aef-83e6-b4d62d25b74e">
 
@@ -10,7 +10,8 @@ I'm a System Administrator with a penchant for wielding the dynamic duo of Power
 
 <img align="left" width="120" height="100" src="https://user-images.githubusercontent.com/137828085/282320016-eee316b5-b526-44a9-9407-dbd911473e46.gif">
 
-## Find me around the web🌎:
+## Find me around the web 🌎:
 
-  #### • Catch up with me on [Instagram](https://www.instagram.com/in/denzelmsrk/) & [Twitter](https://www.twitter.com/in/denzelmarkeise/) 📲
+  ##### • Catch up with me on [Instagram](https://www.instagram.com/in/denzelmsrk/) & [Twitter](https://www.twitter.com/in/denzelmarkeise/) 📲
   ##### • Sharing updates on [LinkedIn](https://www.linkedin.com/in/denzelf/) 🌐
+
